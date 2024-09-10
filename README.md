@@ -4,7 +4,7 @@ Hi My name is Henry Cauan ![](https://user-images.githubusercontent.com/18350557
 Desenvolvedor e Design Web
 --------------------------
 
-Eu sou Henry Cauan, estudante do 3º semestre de Ciência da Computação e freelancer. Tenho nível intermediário em HTML, CSS e JavaScript, e atualmente estou estudando Python. Apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
+Eu sou Henry Cauan, estudante da Ciência da Computação e freelancer. Tenho nível intermediário em HTML, CSS e JavaScript, e atualmente estou estudando Python. Apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
 
 * 🌍  I'm based in Pernambuco ,Brasil
 * ✉️  You can contact me at [henrycauan3222@gmail.com](mailto:henrycauan3222@gmail.com)
