@@ -1,7 +1,6 @@
 Oiii eu sou Henry Cauan, Desenvolvedor Web & UI/UX!
 ===================================================================================================================================
-Eu sou Henry Cauan, estudante da Ciência da Computação e freelancer. Tenho nível intermediário em HTML, CSS e JavaScript, e atualmente estou estudando Python. Apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
-
+Eu sou Henry Cauan, estudante da Ciência da Computação e Designer 
 ### Skills
 
 
