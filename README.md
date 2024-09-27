@@ -6,11 +6,6 @@ Desenvolvedor e Design Web
 
 Eu sou Henry Cauan, estudante da Ciência da Computação e freelancer. Tenho nível intermediário em HTML, CSS e JavaScript, e atualmente estou estudando Python. Apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
 
-* 🌍  I'm based in Pernambuco ,Brasil
-* ✉️  You can contact me at [henrycauan3222@gmail.com](mailto:henrycauan3222@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Projetos Interessantes
-
 ### Skills
 
 
