@@ -1,4 +1,4 @@
-Oiii eu sou Henry Cauan, Desenvolvedor Web & UI/UX!
+Oiii eu sou Henry Cauan, Desenvolvedor Web & UI/UX
 ===================================================================================================================================
 Eu sou Henry Cauan, estudante da Ciência da Computação e Designer 
 ### Skills
