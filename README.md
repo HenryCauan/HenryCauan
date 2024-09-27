@@ -1,9 +1,5 @@
-Hi My name is Henry Cauan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Oiii eu sou Henry Cauan, Desenvolvedor Web & UI/UX!
 ===================================================================================================================================
-
-Desenvolvedor e Design Web
---------------------------
-
 Eu sou Henry Cauan, estudante da Ciência da Computação e freelancer. Tenho nível intermediário em HTML, CSS e JavaScript, e atualmente estou estudando Python. Apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
 
 ### Skills
