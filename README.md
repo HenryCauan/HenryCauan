@@ -1,4 +1,3 @@
-Desenvolvedor Web & UI/UX
+Front-end & UI/UX
 ===================================================================================================================================
-Desenvolvedor Front-end e designer visual. Habilidade em transformar designs em interfaces web interativas utilizando HTML, CSS e JavaScript. Domínio de ferramentas de design como Adobe Illustrator, Photoshop, XD, InDesign, Figma e Frame. Experiência em todo o processo de desenvolvimento, desde o design inicial até o desenvolvimento front-end.
-
+Olá! Sou desenvolvedor Front-End, com paixão por transformar ideias em experiências digitais envolventes. Trabalho com tecnologias como HTML5, CSS3, JavaScript e frameworks modernos como React, Next.js, Vite e Bootstrap, sempre buscando criar interfaces modernas, acessíveis e responsivas.. Com experiência em design UI/UX e proficiência em ferramentas como Adobe Photoshop, Illustrator, Figma e Framer, transformo ideias em designs visuais impactantes. 
