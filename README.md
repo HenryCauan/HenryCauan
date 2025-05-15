@@ -4,4 +4,4 @@
 
 ##
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCauan&layout=compact&langs_count=8&theme=tokyonight" width="500" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCauan&layout=compact&langs_count=8&theme=tokyonight"/>
