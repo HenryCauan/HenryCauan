@@ -2,59 +2,28 @@
 
 # Henry Cauan
 
-*Crafting digital experiences with precision and passion*
+**Frontend Developer**
 
-</div>
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend Stack
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-
-</div>
-
-<br>
-
-## GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HenryCauan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCauan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenryCauan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF"/>
-</div>
-
-<br>
-
-<div align="center">
+Building modern web experiences with React
 
 ---
 
-### Let's Connect
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/henry-cauan)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/henrycauan)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:henry@example.com)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HenryCauan&show_icons=true&theme=minimal&hide_border=true&count_private=true&hide=issues" />
 
 <br>
 
 *"Simplicity is the ultimate sophistication"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=HenryCauan&color=F85D7F&style=flat-square&label=Profile+Views)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-cauan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/henrycauan)
 
 </div>
