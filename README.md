@@ -8,22 +8,6 @@
 
 </div>
 
-## About
-
-I'm a **Full Stack Developer** who believes in the power of clean code and thoughtful design. My journey revolves around transforming complex problems into elegant solutions, one line of code at a time.
-
-```typescript
-interface Developer {
-  name: "Henry Cauan";
-  location: "Brazil";
-  languages: string[];
-  currentlyLearning: string[];
-  philosophy: "Code is poetry, make it beautiful";
-}
-```
-
-<br>
-
 ## Tech Stack
 
 <div align="center">
