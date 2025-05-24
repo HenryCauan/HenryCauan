@@ -24,12 +24,6 @@
 
 </div>
 
-## ◦ Featured Projects
-
-> **Building in public** — Check out my repositories for real-world applications of modern web technologies and design principles.
-
----
-
 <div align="center">
 
 **Let's build something amazing together**
