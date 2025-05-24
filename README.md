@@ -43,16 +43,6 @@
 
 <br>
 
-## Current Focus
-
-```javascript
-const currentWork = {
-  focus: "Building scalable web applications",
-  exploring: ["Next.js", "GraphQL", "Microservices"],
-  goals: "Contributing to open source",
-  mindset: "Always learning, always growing"
-};
-```
 
 <div align="center">
 
