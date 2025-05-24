@@ -2,7 +2,7 @@
 
 # Henry Cauan
 
-*Crafting digital experiences with precision and passion*
+*•Desenvolvedor Front-end •Ciencia da Comput •UX/UI Designer*
 
 </div>
 <br>
