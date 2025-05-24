@@ -1,10 +1,9 @@
 # Henry Cauan
 
 ```ascii
-╭─────────────────────────────────────────────────╮
-│  Frontend Developer × UX/UI Designer           │
-│  Building digital experiences with purpose     │
-╰─────────────────────────────────────────────────╯
+
+  Frontend Developer × UX/UI Designer           
+  Building digital experiences with purpose     
 ```
 
 <div align="center">
@@ -48,14 +47,6 @@ const henry = {
 `UX Research` `UI Design` `Prototyping` `Design Systems`
 
 </div>
-
-## ◦ Currently
-
-- 🎓 **Studying** Computer Science
-- 🚀 **Building** with React ecosystem
-- 🎨 **Designing** user-centered interfaces  
-- 📚 **Learning** advanced TypeScript patterns
-- 💡 **Exploring** design system architecture
 
 ## ◦ Work Philosophy
 
