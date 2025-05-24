@@ -55,9 +55,4 @@
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:henry@example.com)
 
 <br>
-
-*"Simplicity is the ultimate sophistication"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=HenryCauan&color=F85D7F&style=flat-square&label=Profile+Views)
-
 </div>
