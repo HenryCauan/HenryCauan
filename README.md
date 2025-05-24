@@ -8,23 +8,38 @@
 
 </div>
 
+## About
+
+I'm a **Frontend Developer** passionate about creating beautiful, responsive user interfaces. I specialize in modern React ecosystems and believe that great UI/UX can transform how people interact with technology.
+
+```typescript
+interface FrontendDeveloper {
+  name: "Henry Cauan";
+  location: "Brazil";
+  specialization: "React Ecosystem";
+  currentlyBuilding: "Modern web experiences";
+  philosophy: "Beautiful code creates beautiful interfaces";
+}
+```
+
+<br>
+
 ## Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+### Frontend Stack
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+### Development Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 </div>
 
@@ -43,6 +58,16 @@
 
 <br>
 
+## Current Focus
+
+```javascript
+const currentWork = {
+  focus: "Building responsive React applications",
+  exploring: ["React Server Components", "Advanced Tailwind", "Design Systems"],
+  goals: "Creating pixel-perfect user experiences",
+  mindset: "User-first, performance-focused"
+};
+```
 
 <div align="center">
 
@@ -55,4 +80,9 @@
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:henry@example.com)
 
 <br>
+
+*"Simplicity is the ultimate sophistication"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=HenryCauan&color=F85D7F&style=flat-square&label=Profile+Views)
+
 </div>
