@@ -41,7 +41,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/henry-cauan)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/henrycauan)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:henry@example.com)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:henrcau@gmail.com)
 
 <br>
 
