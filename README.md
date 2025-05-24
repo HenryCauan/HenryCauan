@@ -6,7 +6,7 @@
 
 </div>
 
-## ◦ Tech Stack
+## ◦ Skills
 
 <div align="center">
 
