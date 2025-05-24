@@ -7,21 +7,6 @@
 ---
 
 </div>
-
-## About
-
-I'm a **Frontend Developer** passionate about creating beautiful, responsive user interfaces. I specialize in modern React ecosystems and believe that great UI/UX can transform how people interact with technology.
-
-```typescript
-interface FrontendDeveloper {
-  name: "Henry Cauan";
-  location: "Brazil";
-  specialization: "React Ecosystem";
-  currentlyBuilding: "Modern web experiences";
-  philosophy: "Beautiful code creates beautiful interfaces";
-}
-```
-
 <br>
 
 ## Tech Stack
