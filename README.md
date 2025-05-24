@@ -4,10 +4,6 @@
 
 **`Computer Science Student`** • **`Design Thinker`** • **`Code Craftsman`**
 
----
-
-*"Design is not just what it looks like — design is how it works."*
-
 </div>
 
 ## ◦ Tech Stack
