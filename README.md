@@ -43,17 +43,6 @@
 
 <br>
 
-## Current Focus
-
-```javascript
-const currentWork = {
-  focus: "Building responsive React applications",
-  exploring: ["React Server Components", "Advanced Tailwind", "Design Systems"],
-  goals: "Creating pixel-perfect user experiences",
-  mindset: "User-first, performance-focused"
-};
-```
-
 <div align="center">
 
 ---
