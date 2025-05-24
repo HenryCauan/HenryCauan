@@ -35,7 +35,7 @@
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ```
-henriqueacorrea@gmail.com
+henrcau@gmail.com
 ```
 
 *Open to Work*
