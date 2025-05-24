@@ -1,11 +1,4 @@
-<div align="center">
 
-# Henry Cauan
-
-*•Desenvolvedor Front-end •Ciencia da Comput •UX/UI Designer*
-
-</div>
-<br>
 
 ## Tech Stack
 
@@ -17,12 +10,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 </div>
 
