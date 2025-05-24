@@ -1,48 +1,98 @@
-## Tech Stack
+# Henry Cauan
+
+```ascii
+╭─────────────────────────────────────────────────╮
+│  Frontend Developer × UX/UI Designer           │
+│  Building digital experiences with purpose     │
+╰─────────────────────────────────────────────────╯
+```
 
 <div align="center">
 
-### Frontend Stack
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-
-</div>
-
-
-<br>
-
-## GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HenryCauan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCauan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenryCauan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF"/>
-</div>
-
-<br>
-
-<div align="center">
+**`Computer Science Student`** • **`Design Thinker`** • **`Code Craftsman`**
 
 ---
 
-### Let's Connect
+*"Design is not just what it looks like — design is how it works."*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://linkedin.com/in/henry-cauan](https://www.linkedin.com/in/henry-cauan-2ba1b2267/))
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)]([https://instagram.com/henrycauan](https://www.instagram.com/henrca__/))
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:henrcau@gmail.com)
+</div>
 
-<br>
+## ◦ About
 
+Currently pursuing **Computer Science** while crafting digital experiences that bridge the gap between beautiful design and functional code. I believe the best interfaces are invisible — they just work.
 
+```typescript
+const henry = {
+  role: "Frontend Developer & UX/UI Designer",
+  mindset: "User-centered development",
+  location: "Brazil 🇧🇷",
+  currentFocus: "Building seamless web experiences",
+  learning: "Advanced React patterns & Design systems"
+};
+```
+
+## ◦ Tech Stack
+
+<div align="center">
+
+**Frontend**  
+`React` `Next.js` `TypeScript` `JavaScript`
+
+**Styling**  
+`Tailwind CSS` `CSS3` `Responsive Design`
+
+**Tools & Build**  
+`Vite` `Node.js` `Git` `Figma`
+
+**Design**  
+`UX Research` `UI Design` `Prototyping` `Design Systems`
+
+</div>
+
+## ◦ Currently
+
+- 🎓 **Studying** Computer Science
+- 🚀 **Building** with React ecosystem
+- 🎨 **Designing** user-centered interfaces  
+- 📚 **Learning** advanced TypeScript patterns
+- 💡 **Exploring** design system architecture
+
+## ◦ Work Philosophy
+
+```
+┌─ User First ─────────────────────────────────┐
+│ Every line of code serves the user           │
+├─ Clean Code ─────────────────────────────────┤
+│ Readable, maintainable, scalable            │
+├─ Design Thinking ────────────────────────────┤
+│ Empathy drives every design decision         │
+└─ Continuous Growth ─────────────────────────┘
+```
+
+## ◦ Featured Projects
+
+> **Building in public** — Check out my repositories for real-world applications of modern web technologies and design principles.
+
+---
+
+<div align="center">
+
+**Let's build something amazing together**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+```
+henriqueacorrea@gmail.com
+```
+
+*Open to freelance projects and collaboration opportunities*
+
+</div>
+
+---
+
+<div align="center">
+<sub>💭 Crafted with attention to detail • Updated regularly</sub>
+</div>
