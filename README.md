@@ -39,7 +39,7 @@
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/henry-cauan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)]([https://linkedin.com/in/henry-cauan](https://www.linkedin.com/in/henry-cauan-2ba1b2267/))
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/henrycauan)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:henrcau@gmail.com)
 
