@@ -40,8 +40,3 @@ henriqueacorrea@gmail.com
 
 </div>
 
----
-
-<div align="center">
-<sub>💭 Crafted with attention to detail • Updated regularly</sub>
-</div>
