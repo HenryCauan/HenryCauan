@@ -24,7 +24,7 @@
 
 </div>
 
----
+## ◦ Contact us
 
 <div align="center">
 
