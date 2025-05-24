@@ -4,8 +4,6 @@
 
 *Crafting digital experiences with precision and passion*
 
----
-
 </div>
 <br>
 
