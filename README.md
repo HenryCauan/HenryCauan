@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**`Computer Science Student`** • **`Design Thinker`** • **`Code Craftsman`**
+**`Computer Science Student`** • **`Ux/UI Designer`** • **`Web Developer`**
 
 </div>
 
