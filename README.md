@@ -1,4 +1,4 @@
-## ◦ Profile
+## ✨ Profile
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-## ◦ Skills
+## 🛠️ Skills & Tools
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 </div>
 
-## ◦ Contact us
+## 📬 Contact Us
 
 <div align="center">
 
