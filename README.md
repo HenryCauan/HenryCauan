@@ -24,18 +24,6 @@
 
 </div>
 
-## ◦ Work Philosophy
-
-```
-┌─ User First ─────────────────────────────────┐
-│ Every line of code serves the user           │
-├─ Clean Code ─────────────────────────────────┤
-│ Readable, maintainable, scalable            │
-├─ Design Thinking ────────────────────────────┤
-│ Empathy drives every design decision         │
-└─ Continuous Growth ─────────────────────────┘
-```
-
 ## ◦ Featured Projects
 
 > **Building in public** — Check out my repositories for real-world applications of modern web technologies and design principles.
