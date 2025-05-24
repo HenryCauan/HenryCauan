@@ -1,4 +1,4 @@
-## ◦ Me
+## ◦ Profile
 
 <div align="center">
 
