@@ -10,20 +10,6 @@
 
 </div>
 
-## ◦ About
-
-Currently pursuing **Computer Science** while crafting digital experiences that bridge the gap between beautiful design and functional code. I believe the best interfaces are invisible — they just work.
-
-```typescript
-const henry = {
-  role: "Frontend Developer & UX/UI Designer",
-  mindset: "User-centered development",
-  location: "Brazil 🇧🇷",
-  currentFocus: "Building seamless web experiences",
-  learning: "Advanced React patterns & Design systems"
-};
-```
-
 ## ◦ Tech Stack
 
 <div align="center">
