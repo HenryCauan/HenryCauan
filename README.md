@@ -1,10 +1,7 @@
 
 
-## Tech Stack
-
 <div align="center">
-
-### Frontend Stack
+  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
