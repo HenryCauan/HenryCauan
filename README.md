@@ -1,11 +1,5 @@
 # Henry Cauan
 
-```ascii
-
-  Frontend Developer × UX/UI Designer           
-  Building digital experiences with purpose     
-```
-
 <div align="center">
 
 **`Computer Science Student`** • **`Design Thinker`** • **`Code Craftsman`**
