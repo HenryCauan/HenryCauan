@@ -36,7 +36,7 @@
 henrcau@gmail.com
 ```
 
-*Open to freelance projects and collaboration *
+*Open to freelance projects and collaboration opportunities*
 
 </div>
 
