@@ -1,7 +1,7 @@
 <div align="center">
  
 ```
- ᯓ★ Profile
+ ♟️ Profile
 ```
 
 </div>
