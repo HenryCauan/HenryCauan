@@ -1,7 +1,7 @@
 <div align="center">
  
 ```
- ✨ Profile*
+ ✨ Profile
 ```
 
 </div>
@@ -14,7 +14,7 @@
 <div align="center">
  
 ```
- 🛠️ **Skills & Tools**
+ 🛠️ Skills & Tools
  ```
 
 </div>
@@ -38,7 +38,7 @@
 <div align="center">
 
 ```
-📬 **Contact Us**
+📬 Contact Us
 ```
 </div>
 
