@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-size: 20px;">
  
 ```
  ✨ Profile
