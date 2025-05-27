@@ -1,7 +1,7 @@
 <div align="center">
  
 ```
- ✨ Profile
+ ✨ Profile*
 ```
 
 </div>
@@ -11,9 +11,13 @@
 
 </div>
 
+<div align="center">
+ 
 ```
  🛠️ **Skills & Tools**
  ```
+
+</div>
 
 <div align="center">
 
@@ -31,9 +35,12 @@
 
 </div>
 
+<div align="center">
+
 ```
 📬 **Contact Us**
 ```
+</div>
 
 <div align="center">
 
