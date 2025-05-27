@@ -1,4 +1,4 @@
-## ✨ Profile
+ ✨ **Profile**
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 </div>
 
-## 📬 Contact Us
+📬 **Contact Us**
 
 <div align="center">
 
