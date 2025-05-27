@@ -6,7 +6,7 @@
 
 </div>
 
-## < > Skills & Tools
+## 🛠️ Skills & Tools
 
 <div align="center">
 
