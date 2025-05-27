@@ -14,7 +14,7 @@
 <div align="center">
  
 ```
- 🛠️ Skills & Tools
+🛠️ Skills & Tools
  ```
 
 </div>
@@ -22,7 +22,7 @@
 <div align="center">
 
 **Frontend**  
-`React` `Next.js` `TypeScript` `JavaScript`
+`React` `Next.js` `TypeScript` `JavaScript`  
 
 **Styling**  
 `Tailwind CSS` `CSS3` `Responsive Design`
