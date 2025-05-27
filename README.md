@@ -1,7 +1,10 @@
+<div align="center">
+ 
 ```
- ✨ **Profile**
+ ✨ Profile
 ```
 
+</div>
 <div align="center">
 
 **`Computer Science Student`** • **`Ux/UI Designer`** • **`Web Developer`**
