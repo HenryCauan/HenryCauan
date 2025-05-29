@@ -1,13 +1,13 @@
 <div align="center">
  
 ```
- ♟️ Profile
+ ♟️ Perfil
 ```
 
 </div>
 <div align="center">
 
-**`Computer Science Student`** • **`Ux/UI Designer`** • **`Web Developer`**
+**`Estudante de Ciência da Computação • Designer UX/UI • Desenvolvedor Web`**
 
 </div>
 
@@ -38,7 +38,7 @@
 <div align="center">
 
 ```
-📬 Contact Us
+📬 Entre em Contato
 ```
 </div>
 
