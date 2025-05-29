@@ -14,7 +14,7 @@
 <div align="center">
  
 ```
-🛠️ Skills & Tools
+🛠️ Habilidades & Ferramentas
  ```
 
 </div>
