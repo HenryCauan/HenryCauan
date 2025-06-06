@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-**`Estudante de Ciência da Computação • Designer UX/UI • Desenvolvedor Web`**
+**`Estudante de Ciênciaa da Computação • Designer UX/UI • Desenvolvedor Web`**
 
 </div>
 
