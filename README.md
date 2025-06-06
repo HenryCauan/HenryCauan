@@ -52,7 +52,7 @@
 henrcau@gmail.com
 ```
 
-*Aberto a projetos freelance e oportunidades de colaboração*
+*Aberto a projetos freelance e oportunidades de colaaboração*
 
 </div>
 
