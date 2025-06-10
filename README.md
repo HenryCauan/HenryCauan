@@ -21,16 +21,16 @@
 
 <div align="center">
 
-**Frontend**  
+
 `React` `Next.js` `TypeScript` `JavaScript`  
 
-**Styling**  
+ 
 `Tailwind CSS` `CSS3` `Responsive Design`
 
-**Tools & Build**  
+
 `Vite` `Node.js` `Git` `Figma`
 
-**Design**  
+
 `UX Research` `UI Design` `Prototyping` `Design Systems`
 
 </div>
