@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 ```
-henrcau@gmail.com  |  (+55) 87 9 9188-8174
+henrcau@gmail.com  |  (+55) 87 9188-8174
 ```
 
 </div>
