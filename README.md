@@ -1,7 +1,7 @@
 
 
 ```
-henrcau@gmail.com  |  (+55) 87 9188-8174
+henrcau@gmail.com  
 ```
 
 </div>
