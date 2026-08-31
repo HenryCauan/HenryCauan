@@ -1,127 +1,76 @@
-```
-  ▁▃▅▇▅▃▁   henry cauan  ·  interfaces que somem
-```
+HENRY(1)                    Manual do Desenvolvedor                   HENRY(1)
 
-<details>
-<summary><code>&nbsp;▶&nbsp;&nbsp;agora&nbsp;·················&nbsp;ZenithBar 0.2.7&nbsp;</code></summary>
 
-```
-uma ferramenta desktop para Windows que tenta colocar
-menos coisas entre você e o que realmente quer fazer.
+NOME
+     henry cauan — desenvolvedor front-end, interfaces desktop
 
-   mídia · agenda · clipboard · arquivos · atalhos
-   widgets · workspaces · quick access
 
-                        ↓
+SINOPSE
+     henry [--front-end] [--desktop] [--produto]
+           [--menos-complexidade] [arquivo ...]
 
-              ╭──────────────╮
-              │  ●  ▁▃▅▇▅▃▁  │     ~40px de tela
-              ╰──────────────╯
-```
 
-→ [ZenithBar](https://github.com/HenryCauan/ZenithBar)
+DESCRIÇÃO
+     Constrói interfaces e experiências desktop para produtos que
+     precisam ser rápidos sem parecerem complicados.
 
-</details>
+     Começou profissionalmente com desenvolvimento web e e-commerce
+     na Avanti, atuando com VTEX IO, React, JavaScript, TypeScript,
+     CSS e customização de interfaces.
 
-<details>
-<summary><code>&nbsp;◌&nbsp;&nbsp;sobre&nbsp;·················&nbsp;</code></summary>
+     Hoje, além de aprofundar o stack, constrói uma ferramenta
+     desktop para Windows em Electron + React — mídia, agenda,
+     clipboard, arquivos, atalhos, widgets e workspaces em cerca de
+     40px de tela — onde explora performance, arquitetura, UX e
+     integração com o sistema operacional.
 
-```
-desenvolvedor front-end focado em interfaces, experiências
-desktop e produtos que precisam ser rápidos sem parecerem
-complicados.
+     Não adiciona complexidade só porque a tecnologia permite.
 
-comecei profissionalmente com desenvolvimento web e
-e-commerce na Avanti — VTEX IO, React, JavaScript,
-TypeScript, CSS e customização de interfaces.
 
-hoje, além de aprofundar o stack, construo o ZenithBar:
-um projeto desktop em Electron + React onde exploro
-performance, arquitetura, UX e integração com o Windows.
+OPÇÕES
+     --front-end
+             react, typescript, javascript, html, css, vite
 
-não gosto de adicionar complexidade só porque a
-tecnologia permite.
-```
+     --desktop
+             electron, node.js, windows / win32
 
-</details>
+     --ecossistema
+             vtex io, rest apis, json / jsonc, git
 
-<details>
-<summary><code>&nbsp;⧉&nbsp;&nbsp;stack&nbsp;·················&nbsp;</code></summary>
+     --aprofundando
+             docker, python, automações, integrações com apis
 
-```
-front-end      react · typescript · javascript
-               html · css · vite
 
-desktop        electron · node.js
-               windows / win32
+PRINCÍPIOS
+     medir       Profile antes de otimizar.
 
-ecossistema    vtex io · rest apis
-               json / jsonc · git
+     subtrair    Menos código também é uma feature.
 
-aprofundando   docker · python
-               automações · integrações com apis
-```
+     consistir   Uma interface deve parecer parte do mesmo produto,
+                 não um conjunto de componentes diferentes.
 
-</details>
+     produto     Código importa, mas a experiência que ele entrega
+                 é o que permanece.
 
-<details>
-<summary><code>&nbsp;▤&nbsp;&nbsp;como penso&nbsp;············&nbsp;</code></summary>
+     terminar    95% funcionando no mundo real vence 100% perfeito
+                 na branch.
 
-```
-medir       →  profile antes de otimizar.
 
-subtrair    →  menos código também é uma feature.
+ARQUIVOS
+     desktop/      quick-access interface para Windows
+     react/        interfaces e componentes
+     typescript/   arquitetura e tipagem
+     node/         apis e ferramentas
+     python/       automações e exploração de ia
 
-consistir   →  uma interface deve parecer parte do mesmo
-               produto, não um conjunto de componentes
-               diferentes.
 
-produto     →  código importa. mas a experiência que ele
-               entrega é o que permanece.
+STATUS DE SAÍDA
+     0    A interface saiu do caminho.
+     1    O usuário teve que pensar na ferramenta.
 
-terminar    →  95% funcionando no mundo real vence 100%
-               perfeito na branch.
-```
 
-</details>
+VEJA TAMBÉM
+     henrcau@gmail.com          linkedin: Henry Cauan
 
-<details>
-<summary><code>&nbsp;◇&nbsp;&nbsp;projetos&nbsp;··············&nbsp;</code></summary>
 
-```
-ZENITHBAR                          em desenvolvimento
-desktop · electron · react · typescript
-
-uma quick-access interface para Windows, construída em
-torno de reduzir a distância entre o usuário e suas
-ações mais frequentes.
-```
-
-→ [github.com/HenryCauan/ZenithBar](https://github.com/HenryCauan/ZenithBar)
-
-```
-outros experimentos
-
-react        interfaces e componentes
-typescript   arquitetura e tipagem
-node         apis e ferramentas
-python       automações e exploração de ia
-```
-
-</details>
-
-<details>
-<summary><code>&nbsp;⌘&nbsp;&nbsp;contato&nbsp;···············&nbsp;</code></summary>
-
-```
-github     HenryCauan
-linkedin   Henry Cauan
-```
-
-</details>
-
-<br>
-
-```
-não coleciono troféus. prefiro construir coisas que funcionem.
-```
+                                                                      HENRY(1)
