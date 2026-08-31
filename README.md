@@ -1,1 +1,1 @@
-<img src="./assets/hero-v6.svg" width="100%" alt="Henry Cauan — fullstack developer" />
+<img src="./assets/hero-v7.svg" width="100%" alt="Henry Cauan — fullstack developer" />
