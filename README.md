@@ -55,6 +55,3 @@ github   HenryCauan
 
 <br>
 
-```
-nada de streaks, troféus ou gráfico de contribuições.
-```
