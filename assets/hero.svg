@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="henry cauan — interfaces que somem">
+  <defs>
+    <radialGradient id="v" cx="30%" cy="40%" r="85%">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="460" fill="url(#v)"/>
+
+  <g stroke="#2a2a2a" stroke-width="1" fill="none">
+    <path d="M40 62 L40 40 L62 40"/>
+    <path d="M1138 40 L1160 40 L1160 62"/>
+    <path d="M40 398 L40 420 L62 420"/>
+    <path d="M1138 420 L1160 420 L1160 398"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="90" y="120" font-size="12" letter-spacing="6" fill="#5a5a5a">FRONT-END &#183; INTERFACES DESKTOP</text>
+
+    <text x="88" y="228" font-size="70" letter-spacing="10" fill="#f0f0f0" font-weight="300">henry cauan</text>
+
+    <text x="92" y="272" font-size="16" letter-spacing="7" fill="#8c8c8c">interfaces que somem</text>
+
+    <line x1="90" y1="322" x2="1110" y2="322" stroke="#242424" stroke-width="1"/>
+
+    <text x="90" y="360" font-size="12" letter-spacing="3" fill="#6e6e6e">react &#183; typescript &#183; electron &#183; node</text>
+    <text x="1110" y="360" font-size="12" letter-spacing="3" fill="#6e6e6e" text-anchor="end">henrcau@gmail.com</text>
+  </g>
+
+  <g fill="#7a7a7a">
+    <rect x="90" y="392" width="4" height="10">
+      <animate attributeName="height" values="6;22;6" dur="1.7s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="396;380;396" dur="1.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="100" y="388" width="4" height="14">
+      <animate attributeName="height" values="14;28;14" dur="1.7s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="388;374;388" dur="1.7s" begin="0.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="110" y="382" width="4" height="20">
+      <animate attributeName="height" values="20;8;20" dur="1.7s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="382;394;382" dur="1.7s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120" y="376" width="4" height="26">
+      <animate attributeName="height" values="26;12;26" dur="1.7s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="376;390;376" dur="1.7s" begin="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="130" y="382" width="4" height="20">
+      <animate attributeName="height" values="20;30;20" dur="1.7s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="382;372;382" dur="1.7s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="140" y="388" width="4" height="14">
+      <animate attributeName="height" values="14;24;14" dur="1.7s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="388;378;388" dur="1.7s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="150" y="392" width="4" height="10">
+      <animate attributeName="height" values="10;20;10" dur="1.7s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="392;382;392" dur="1.7s" begin="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
