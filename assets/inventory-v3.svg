@@ -29,24 +29,24 @@
   </rect>
   <text x="28" y="84" font-family="SK, monospace" font-size="11" fill="#7e7e7e">REACT * TYPESCRIPT * JAVASCRIPT</text>
   <text x="28" y="102" font-family="SK, monospace" font-size="11" fill="#7e7e7e">HTML * CSS * VITE</text>
-  <text x="28" y="142" font-family="SK, monospace" font-size="12" fill="#c4c4c4">BACK-END</text>
-  <rect x="140" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <text x="28" y="154" font-family="SK, monospace" font-size="12" fill="#c4c4c4">BACK-END</text>
+  <rect x="140" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="1.32s" repeatCount="indefinite"/>
   </rect>
-  <rect x="156" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <rect x="156" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="1.54s" repeatCount="indefinite"/>
   </rect>
-  <rect x="172" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <rect x="172" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="1.76s" repeatCount="indefinite"/>
   </rect>
-  <rect x="188" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <rect x="188" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="1.98s" repeatCount="indefinite"/>
   </rect>
-  <rect x="204" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <rect x="204" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="2.20s" repeatCount="indefinite"/>
   </rect>
-  <text x="28" y="164" font-family="SK, monospace" font-size="11" fill="#7e7e7e">NODE.JS * REST APIS * JSON</text>
-  <text x="28" y="182" font-family="SK, monospace" font-size="11" fill="#7e7e7e">PYTHON * DOCKER * JSONC</text>
+  <text x="28" y="178" font-family="SK, monospace" font-size="11" fill="#7e7e7e">NODE.JS * REST APIS * JSON</text>
+  <text x="28" y="198" font-family="SK, monospace" font-size="11" fill="#7e7e7e">PYTHON * DOCKER * JSONC</text>
   <text x="312" y="62" font-family="SK, monospace" font-size="12" fill="#c4c4c4">DESKTOP</text>
   <rect x="424" y="52" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="2.42s" repeatCount="indefinite"/>
@@ -62,20 +62,20 @@
   </rect>
   <text x="312" y="84" font-family="SK, monospace" font-size="11" fill="#7e7e7e">ELECTRON * WINDOWS / WIN32</text>
   <text x="312" y="102" font-family="SK, monospace" font-size="11" fill="#7e7e7e">VTEX IO * GIT</text>
-  <text x="312" y="142" font-family="SK, monospace" font-size="12" fill="#c4c4c4">UX/UI</text>
-  <rect x="424" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <text x="312" y="154" font-family="SK, monospace" font-size="12" fill="#c4c4c4">UX/UI</text>
+  <rect x="424" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="3.30s" repeatCount="indefinite"/>
   </rect>
-  <rect x="440" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <rect x="440" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="3.52s" repeatCount="indefinite"/>
   </rect>
-  <rect x="456" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <rect x="456" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="3.74s" repeatCount="indefinite"/>
   </rect>
-  <rect x="472" y="132" width="10" height="10" fill="#ffffff" opacity="0.18">
+  <rect x="472" y="144" width="10" height="10" fill="#ffffff" opacity="0.18">
     <animate attributeName="opacity" values="0.18;0.18;1;1;0.18" keyTimes="0;0.06;0.14;0.86;1" calcMode="discrete" dur="5s" begin="3.96s" repeatCount="indefinite"/>
   </rect>
-  <text x="312" y="164" font-family="SK, monospace" font-size="11" fill="#7e7e7e">FIGMA * ADOBE XD</text>
-  <text x="312" y="182" font-family="SK, monospace" font-size="11" fill="#7e7e7e">PHOTOSHOP * ILLUSTRATOR</text>
+  <text x="312" y="178" font-family="SK, monospace" font-size="11" fill="#7e7e7e">FIGMA * ADOBE XD</text>
+  <text x="312" y="198" font-family="SK, monospace" font-size="11" fill="#7e7e7e">PHOTOSHOP * ILLUSTRATOR</text>
   <text x="532" y="32" font-family="SK, monospace" font-size="9" fill="#3e3e3e" text-anchor="end">ONE BLOCK = ONE TOOL</text>
 </svg>
