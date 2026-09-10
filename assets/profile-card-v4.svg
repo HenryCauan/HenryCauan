@@ -17,6 +17,5 @@
     <path d="M 92 94 L 88 101"/>
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.28;0.42;0.72;1" calcMode="discrete" dur="2.4s" repeatCount="indefinite"/>
   </g>
-  <text x="72" y="201" font-family="SK, monospace" font-weight="700" font-size="16" fill="#ffffff">HENRY CAUAN</text>
-  <text x="93" y="219" font-family="SK, monospace" font-size="10" fill="#7a7a7a">FULLSTACK DEV</text>
+  <text x="150" y="211" font-family="SK, monospace" font-weight="700" font-size="12" fill="#ffffff" text-anchor="middle">FULLSTACK DEV</text>
 </svg>
